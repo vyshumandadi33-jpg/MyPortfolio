@@ -87,7 +87,7 @@ export default function Certifications() {
           <div className="notice-content">
             <h4>Continuous Learning &amp; Skill Development</h4>
             <p>
-              Currently expanding expertise in <strong>Data Analytics, SQL querying, Python libraries</strong>, and preparing for competitive technical hackathons and certifications.
+              Currently improving my programming skills in Java and Python, learning web development technologies, and building practical projects to strengthen my Software Engineering skills.
             </p>
           </div>
         </div>
