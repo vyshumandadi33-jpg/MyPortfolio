@@ -16,7 +16,7 @@ export const personalInfo = {
   gpa: "9.37",
 
   socialLinks: {
-    github: "https://github.com/vyshumandadi33",
+    github: "https://github.com/vyshumandadi33-jpg",
     linkedin: "https://linkedin.com/in/vyshnavi-mandadi-5787b3381",
     leetcode: "https://leetcode.com/Vyshnavi_Mandadi",
     email: "mailto:vyshumandadi33@gmail.com"
